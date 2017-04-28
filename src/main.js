@@ -1,0 +1,2 @@
+require('./radom');
+new Radom();
